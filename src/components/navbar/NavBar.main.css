@@ -1,0 +1,31 @@
+/* Light mode styles */
+body.light-mode {
+    background-color: #ffffff; /* White background */
+    color: #333333; /* Dark text color */
+  }
+  
+  /* Night mode styles */
+  body.night-mode {
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* Light text color */
+  }
+
+  .navbar.night-mode {
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+  }
+  
+  /* Common styles */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+    max-width: 3840px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  }
+  
+  
+  .toggle {
+    cursor: pointer;
+    /* Add toggle button styles here */
+  }
+  

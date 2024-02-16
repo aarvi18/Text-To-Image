@@ -1,0 +1,11 @@
+.pictureExamle .sampleImages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pictureExamle .sampleImages img {
+    width: 20rem;
+    margin: 2rem;
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
