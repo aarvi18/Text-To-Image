@@ -1,0 +1,12 @@
+.footer {
+    text-align: center;
+    padding: 1.2rem 0rem;
+    border-radius: 10px;
+    background-color: rgba(0, 127, 212, 0.233); /* Adjust the opacity as needed */
+    color: white;
+    font-size: small;
+    letter-spacing: 0.1rem;
+    width: 80%;
+    margin: 2rem auto;
+    backdrop-filter: blur(10px); /* Adjust the blur radius as needed */
+}

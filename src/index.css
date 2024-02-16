@@ -36,10 +36,16 @@
 }
 
 @media only screen and (max-width: 600px) {
+  .header-title h1 {
+    font-size: 2.5rem;
+  }
   .pictureExamle .sampleImages {
     display: block;
   }
   .loading-image {
     width: 20rem;
+  }
+  .pictureExamle .sampleImages img {
+    margin: 1.5rem auto;
   }
 }

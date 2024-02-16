@@ -1,3 +1,6 @@
+.pictureExamle {
+    margin-top: 2rem;
+}
 .pictureExamle .sampleImages {
     display: flex;
     justify-content: center;
