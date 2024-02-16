@@ -7,7 +7,6 @@
   /* background-color: #ffffff; */
 }
 
-
 .boujee-text {
   --bg-size: 400%;
   --color-one: hsl(15 90% 55%);
@@ -33,5 +32,14 @@
     to {
       background-position: var(--bg-size) 0;
     }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .pictureExamle .sampleImages {
+    display: block;
+  }
+  .loading-image {
+    width: 20rem;
   }
 }
