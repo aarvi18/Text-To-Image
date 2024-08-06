@@ -12,7 +12,7 @@ const NavBar = () => {
   return (
     <div className={`navbar ${lightMode ? 'light-mode' : 'night-mode'}`}>
       <div className="logo">
-        <h3 className='boujee-text'>text2pic.io</h3>
+        <h3 className='boujee-text'>Text-To-Image</h3>
       </div>
       <div className="toggle" onClick={toggleMode}>
         <span>{lightMode ? '🌙' : '☀️'}</span>

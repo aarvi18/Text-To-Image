@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className="footer">
-      <p>Made in india by Rakesh kumar</p>
+      <p>"I am consistently updating this website with new features and enhancements."</p>
     </div>
   )
 }

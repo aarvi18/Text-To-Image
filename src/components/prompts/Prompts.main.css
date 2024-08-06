@@ -1,0 +1,33 @@
+.mainDiv {
+    text-align: left;
+}
+
+.promptSec {
+    background-color: rgb(176, 216, 253);
+    padding: 2rem;
+    border-radius: 15px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+h4 {
+    margin-top: 0.8rem;
+    margin-bottom: 0.2rem;
+}
+
+p {
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
+.copyPrompt {
+    font-style: italic;
+    font-weight: bold;
+    font-size: small;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    padding: 0.5rem 0.8rem;
+    border-radius: 5px;
+}

@@ -9,8 +9,8 @@
 
 .boujee-text {
   --bg-size: 400%;
-  --color-one: hsl(15 90% 55%);
-  --color-two: hsl(40 95% 55%);
+  --color-one: hsl(200, 97%, 62%); /* Light Blue */
+  --color-two: hsl(220, 100%, 55%); /* Dark Blue */  
   font-family: sans-serif;
   font-size: clamp(0.2rem, 15vmin, 2rem);
   background: linear-gradient(

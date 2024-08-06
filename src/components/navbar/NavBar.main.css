@@ -27,6 +27,10 @@ body.light-mode {
   
   .toggle {
     cursor: pointer;
-    /* Add toggle button styles here */
+    font-size: 1.2rem;
+  }
+
+  .logo .boujee-text {
+    font-size: 1.5rem;
   }
   

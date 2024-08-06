@@ -63,7 +63,7 @@ const TextInputField = () => {
       <button onClick={handleButtonClick}>
         <svg
           height="24"
-          width="24"
+          width="29"
           viewBox="0 0 24 24"
           xmlns="http://www.w3.org/2000/svg"
         >
